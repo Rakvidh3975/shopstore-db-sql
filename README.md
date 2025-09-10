@@ -1,6 +1,6 @@
-<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/e305d8ef-aed4-4085-8a24-d2394b1f70fd" /># shopstore-db-sql
-A complete SQL project for managing products, customers, and orders in a shopping store
 **Shopping Store SQL Project**
+A complete SQL project for managing products, customers, and orders in a shopping store
+
 **🎯 Objective**
 The objective of this project is to design and implement a relational database for a shopping store that demonstrates one-to-many and many-to-many relationships using four tables:
 customers
