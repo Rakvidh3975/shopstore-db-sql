@@ -1,4 +1,4 @@
-# shopstore-db-sql
+<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/e305d8ef-aed4-4085-8a24-d2394b1f70fd" /># shopstore-db-sql
 A complete SQL project for managing products, customers, and orders in a shopping store
 **Shopping Store SQL Project**
 **🎯 Objective**
@@ -30,6 +30,7 @@ Aggregated order and product-level data.
 Calculated sales revenue per customer and per product.
 
 **📸 Dashboard Preview**
+<img width="1912" height="1017" alt="SQLScreenshot 2025-09-10 160228" src="https://github.com/user-attachments/assets/2beb6117-87e0-488d-a861-965da2e72676" />
 
 
 **✅ Final Conclusion**
